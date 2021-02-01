@@ -14,3 +14,7 @@ https://rawgit.com/albingroen/Ocean-UI/master/main.css
 - Buttons
 - Text styles
 - Table
+
+### Todos
+
+//TODO #2 deprecate project @albingroen
